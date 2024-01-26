@@ -1,4 +1,4 @@
-# college-ecommerec-website
+# college-ecommerce-website
 where students can buy or sell among them self 
 
 
